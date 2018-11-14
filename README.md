@@ -5,6 +5,9 @@ Take-notes-01
 
 笔记整理 git clone
 
+修改后进行更新，需要向下拉去：git pull
+
+
 提交当前的修改 git add .
 
 git commit –m “对于修改的注释，之后查看历史方便”
@@ -23,3 +26,4 @@ git push -u origin master
 …or push an existing repository from the command line
 git remote add origin https://github.com/Smpidus-TDT/PaChong-note.git
 git push -u origin master
+
